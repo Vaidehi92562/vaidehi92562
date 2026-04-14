@@ -2,5 +2,10 @@
   <img src="hero-banner.png" width="100%" alt="Vaidehi Mishra banner" />
 </p>
 
-<h1 align="center">Hi, I'm Vaidehi Mishra 👋</h1>
+<h1 align="center">Hi, I'm PVVaidehi  👋</h1>
 <h3 align="center">Full-Stack Developer | CSE Student</h3>
+
+<p align="center">
+  <img src="YOUR-IMAGE-URL-HERE" alt="Vaidehi illustration" width="240"/><br><br>
+  <b>Full-Stack Developer | CSE Student</b>
+</p>
