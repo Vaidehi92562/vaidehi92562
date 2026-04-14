@@ -6,6 +6,6 @@
 <h3 align="center">Full-Stack Developer | CSE Student</h3>
 
 <p align="center">
-  <img src="YOUR-IMAGE-URL-HERE" alt="Vaidehi illustration" width="240"/><br><br>
+  <img src="IMG2.png" alt="Vaidehi illustration" width="240"/><br><br>
   <b>Full-Stack Developer | CSE Student</b>
 </p>
