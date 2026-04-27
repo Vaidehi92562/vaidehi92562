@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero-banner.png" width="100%" alt="Vaidehi Mishra banner" />
+  <img src="github-banner.png" width="100%" alt="Vaidehi Mishra banner" />
 </p>
 
 <h1 align="center">Hi, I'm PVVaidehi  👋</h1>
