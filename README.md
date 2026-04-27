@@ -1,132 +1,103 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Developer Banner" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Monoton&size=36&duration=2400&pause=900&color=FF78C4&center=true&vCenter=true&width=1000&lines=THE+HUMAN+COMPILER;IDEAS+ENTER+%E2%86%92+SYSTEMS+EXIT;LOGIC+IN+MOTION;BUILDING+SOFTWARE+WITH+STRUCTURE+AND+STYLE" alt="Typing SVG" />
+<img src="./github-banner.png" width="100%" alt="Developer Dashboard Banner" />
 
 <br>
 
-<img src="https://img.shields.io/badge/status-compiling%20ideas-FF78C4?style=flat-square" />
-<img src="https://img.shields.io/badge/runtime-curiosity-7EE8FF?style=flat-square" />
-<img src="https://img.shields.io/badge/output-meaningful%20software-7EF0C5?style=flat-square" />
+# ⟦ A Proof of Work in Progress ⟧
+
+### Where algorithms become interfaces, bugs become lessons, and ideas compile into systems.
+
+<br>
+
+<img src="https://img.shields.io/badge/field-computer%20science-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/method-logic%20%2B%20design-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/output-meaningful%20software-DB2777?style=for-the-badge" />
+
+<br><br>
+
+<a href="https://vaidehi92562.github.io/vaidehi-github-profile/">
+  <img src="https://img.shields.io/badge/open%20interactive%20portfolio-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+## ⟡ Abstract
+
 ```txt
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│                    THE HUMAN COMPILER                      │
-│                                                            │
-│        raw ideas  ──►  logic  ──►  design  ──►  code        │
-│                                                            │
-│        errors become lessons. bugs become checkpoints.     │
-│        every project becomes a better version of thinking. │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+This repository is not just a profile.
+It is a small computational notebook of experiments, systems, interfaces,
+unfinished questions, solved bugs, and projects slowly becoming sharper.
 ```
+
+I like building software that has both **logic** and **presence** — projects that are not only functional, but structured, readable, visually intentional, and useful enough to explain themselves.
 
 ---
 
-## 00. SYSTEM BOOT
+## ⟡ Theorem 01: Meaningful Software
+
+```txt
+Given:
+  curiosity ∈ mind
+  constraints ∈ problem
+  logic ∈ solution
+  design ∈ communication
+
+To prove:
+  useful software can be created through repeated iteration.
+```
+
+```txt
+Proof:
+  observe(problem)
+  decompose(problem)
+  model(solution)
+  build(interface)
+  connect(backend)
+  test(edge_cases)
+  debug(assumptions)
+  polish(experience)
+  ship()
+
+Therefore:
+  small commits accumulate into meaningful systems.
+```
+
+<div align="right">
+
+`Q.E.D. but still debugging.`
+
+</div>
+
+---
+
+## ⟡ Current Runtime
+
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
-identity:
-  role: "Computer Science Student"
-  build_type: "Frontend-focused Full-Stack Developer"
-  thinking_style: "algorithmic + visual + practical"
-
-current_processes:
-  - Data Structures and Algorithms
-  - Full-Stack Web Development
-  - DevOps and CI/CD
-  - Docker + Kubernetes + Jenkins
-  - System Design Fundamentals
-  - Building portfolio-worthy projects
-
-core_belief:
-  "Good software should not only work. It should feel intentional."
-```
-
----
-
-## 01. THE EQUATION THAT RUNS HERE
-
-<div align="center">
-
-### `clarity(problem) + creativity(solution) = meaningful_software`
-
-### `design ≠ decoration`
-### `design = communication + usability + structure`
-
-### `while (not_ready) { learn(); build(); debug(); repeat(); }`
-
-</div>
-
----
-
-## 02. INSIDE THE MACHINE
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Logic Layer
-
-```txt
-I like breaking problems into:
-  → inputs
-  → constraints
-  → patterns
-  → edge cases
-  → clean solutions
+system:
+  type: "CSE student"
+  mode: "full-stack builder"
+  preference: "frontend polish + backend clarity"
+  operating_style: "learn, build, break, fix, repeat"
 ```
 
 </td>
 <td width="50%">
 
-### 🎨 Interface Layer
-
-```txt
-I care about:
-  → visual hierarchy
-  → smooth user flow
-  → readable layouts
-  → polished presentation
-  → meaningful interaction
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Backend Layer
-
-```txt
-I build with:
-  → APIs
-  → authentication
-  → database logic
-  → structured routes
-  → reliable workflows
-```
-
-</td>
-<td width="50%">
-
-### 🚀 Deployment Layer
-
-```txt
-I explore:
-  → GitHub
-  → Docker
-  → Kubernetes
-  → Jenkins
-  → CI/CD pipelines
+```yaml
+active_threads:
+  - data structures and algorithms
+  - full-stack web applications
+  - REST APIs and databases
+  - Docker, Kubernetes, Jenkins
+  - CI/CD and deployment workflows
+  - system design fundamentals
 ```
 
 </td>
@@ -135,112 +106,60 @@ I explore:
 
 ---
 
-## 03. TOOLCHAIN
-
-<div align="center">
+## ⟡ The Workbench
 
 <table>
 <tr>
-<td align="center"><b>Languages</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=FFB86C" />
-<img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=7EE8FF" />
-<img src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=9D7CFF" />
-<img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=FDE68A" />
-</td>
-</tr>
+<td width="25%" align="center">
 
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=7EE8FF" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FF8C42" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=7EA8FF" />
-<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=7EF0C5" />
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Backend</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=7EF0C5" />
-<img src="https://img.shields.io/badge/Express-1f2937?style=for-the-badge&logo=express&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Spring_Boot-1f2937?style=for-the-badge&logo=springboot&logoColor=95D5B2" />
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Data</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=7EF0C5" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=7EA8FF" />
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>DevOps</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=7EE8FF" />
-<img src="https://img.shields.io/badge/Kubernetes-1f2937?style=for-the-badge&logo=kubernetes&logoColor=9D7CFF" />
-<img src="https://img.shields.io/badge/Jenkins-1f2937?style=for-the-badge&logo=jenkins&logoColor=FFB86C" />
-<img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=ffffff" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 04. PROJECT CONSTELLATIONS
+### 𝟎𝟏  
+### Think
 
 ```txt
-not just projects.
-small systems with purpose.
+requirements
+constraints
+patterns
+edge cases
 ```
-
-<table>
-<tr>
-<td width="33%">
-
-### 📈 TradeWise Nexus
-
-```txt
-category : full-stack simulator
-theme    : stock market + portfolio
-focus    : transactions, wallet, watchlist
-stack    : React, Node, MongoDB
-```
-
-A paper-trading experience with live-feeling price movement, portfolio tracking, and practical trading workflows.
 
 </td>
-<td width="33%">
+<td width="25%" align="center">
 
-### 🌾 CropSight
+### 𝟎𝟐  
+### Build
 
 ```txt
-category : machine learning
-theme    : agriculture risk engine
-focus    : prediction + explainability
-stack    : Python, ML, SHAP
+interfaces
+APIs
+databases
+workflows
 ```
-
-An explainable ML system for post-harvest spoilage risk analysis and interpretable decision support.
 
 </td>
-<td width="33%">
+<td width="25%" align="center">
 
-### 🎓 LearnSphere
+### 𝟎𝟑  
+### Debug
 
 ```txt
-category : edtech + devops
-theme    : learning platform
-focus    : quizzes, tracking, deployment
-stack    : React, Node, Jenkins
+logs
+states
+flows
+assumptions
 ```
 
-A learning platform concept with dashboards, progress tracking, CI/CD flow, Docker, Kubernetes, and DevSecOps thinking.
+</td>
+<td width="25%" align="center">
+
+### 𝟎𝟒  
+### Polish
+
+```txt
+layout
+motion
+clarity
+presentation
+```
 
 </td>
 </tr>
@@ -248,80 +167,186 @@ A learning platform concept with dashboards, progress tracking, CI/CD flow, Dock
 
 ---
 
-## 05. HOW IDEAS TRAVEL HERE
+## ⟡ A Tiny Compiler for Ideas
 
 ```mermaid
-flowchart TD
-    A["messy idea"] --> B["break into requirements"]
-    B --> C["design the user flow"]
-    C --> D["build interface"]
-    B --> E["model backend logic"]
-    E --> F["connect data"]
-    D --> G["test experience"]
-    F --> G
-    G --> H["debug assumptions"]
-    H --> I["polish"]
-    I --> J["ship"]
+flowchart LR
+    A["raw idea"] --> B["requirements"]
+    B --> C["logic model"]
+    C --> D["UI blueprint"]
+    C --> E["backend flow"]
+    D --> F["frontend build"]
+    E --> G["API + database"]
+    F --> H["integration"]
+    G --> H
+    H --> I["testing"]
+    I --> J["debugging"]
+    J --> K["polish"]
+    K --> L["deploy"]
 ```
 
 ---
 
-## 06. PORTFOLIO PORTAL
+## ⟡ Tool Inventory
+
+<table>
+<tr>
+<td width="20%"><b>Languages</b></td>
+<td>
+
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FACC15)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=2DD4BF)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=FB7185)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=60A5FA)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=5EEAD4)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=86EFAC)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-111827?style=flat-square&logo=springboot&logoColor=86EFAC)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=34D399)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=60A5FA)
+
+</td>
+</tr>
+
+<tr>
+<td><b>DevOps</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=FB923C)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=38BDF8)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=818CF8)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=flat-square&logo=jenkins&logoColor=FBBF24)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⟡ Project Case Files
+
+<details open>
+<summary><b>📈 Case File 01: TradeWise Nexus</b></summary>
+
+```txt
+classification : full-stack simulator
+domain         : stock market learning
+core idea      : simulate trading without real financial risk
+features       : wallet, buy/sell, watchlist, portfolio, transactions
+engineering    : frontend + backend + database + containerization
+```
+
+A paper-trading system with live-feeling stock movement, wallet operations, holdings, watchlist, and transaction history.
+
+</details>
+
+<details>
+<summary><b>🌾 Case File 02: CropSight</b></summary>
+
+```txt
+classification : explainable machine learning
+domain         : agriculture and post-harvest risk
+core idea      : convert storage conditions into spoilage risk insight
+features       : prediction, risk score, model comparison, explainability
+engineering    : preprocessing + ML + SHAP + interpretation
+```
+
+A predictive risk engine designed to support better post-harvest decision-making using machine learning and explainability.
+
+</details>
+
+<details>
+<summary><b>🎓 Case File 03: LearnSphere</b></summary>
+
+```txt
+classification : edtech + devops
+domain         : learning platform
+core idea      : combine learning experience with deployment workflow
+features       : courses, quizzes, progress, dashboards, CI/CD
+engineering    : React + backend + Jenkins + Docker + Kubernetes
+```
+
+A learning platform concept with a strong DevOps layer, focused on deployment, automation, and product-like presentation.
+
+</details>
+
+---
+
+## ⟡ Portfolio Window
 
 <div align="center">
 
 <a href="https://vaidehi92562.github.io/vaidehi-github-profile/">
-  <img src="./IMG2.png" width="82%" alt="Interactive Portfolio Preview" />
+  <img src="./IMG2.png" width="88%" alt="Interactive Portfolio Preview" />
 </a>
 
 <br><br>
 
 <a href="https://vaidehi92562.github.io/vaidehi-github-profile/">
-  <img src="https://img.shields.io/badge/OPEN_THE_LIVE_SYSTEM-FF78C4?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/launch%20the%20interactive%20system-DB2777?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 07. SIGNALS FROM THE MACHINE
+## ⟡ Debug Log
+
+```txt
+[log 001] A blank screen is not failure. It is the UI asking for meaning.
+[log 002] A bug is often a misunderstanding wearing technical clothes.
+[log 003] A good project is 40% code, 30% structure, 20% polish, 10% panic.
+[log 004] Console logs are breadcrumbs from past confusion.
+[log 005] The best feature is the one that still makes sense tomorrow.
+```
+
+---
+
+## ⟡ GitHub Signal Panel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaidehi92562&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vaidehi92562&show_icons=true&theme=transparent&hide_border=true&title_color=DB2777&text_color=C4B5FD&icon_color=38BDF8" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehi92562&layout=compact&theme=midnight-purple&hide_border=true&border_radius=20" width="36%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vaidehi92562&theme=midnight-purple&hide_border=true&border_radius=20" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehi92562&layout=compact&theme=transparent&hide_border=true&title_color=DB2777&text_color=C4B5FD" width="36%" />
 
 </div>
 
 ---
 
-## 08. BUGS I HAVE MET
+## ⟡ Closing Lemma
 
 ```txt
-[✓] typo pretending to be a logic error
-[✓] missing semicolon with main-character energy
-[✓] CSS behaving like it has free will
-[✓] backend working until frontend asks questions
-[✓] "just one small change" becoming an entire subplot
+A system becomes beautiful when:
+  logic is clear,
+  structure is honest,
+  interface is kind,
+  and the builder refuses to stop improving.
 ```
-
----
-
-## 09. FINAL LINE
 
 <div align="center">
 
-```txt
-systems are built twice:
-first in thought,
-then in code.
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=22&duration=2800&pause=1000&color=7EE8FF&center=true&vCenter=true&width=900&lines=think+in+patterns.;build+with+purpose.;debug+with+patience.;ship+with+style." alt="Final typing SVG" />
+### `commit → reflect → refactor → repeat`
 
 </div>
