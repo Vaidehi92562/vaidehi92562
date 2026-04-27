@@ -1,28 +1,16 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Developer GitHub Banner" />
+<img src="./github-banner.png" width="100%" alt="Algorithmic Developer Banner" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=34&duration=2600&pause=900&color=FF7AD9&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Algorithmic+Atelier;Logic+%2B+Creativity+%3D+Meaningful+Code;Compiling+Ideas+into+Digital+Experiences;Designing+Systems.+Solving+Problems.+Shipping+Code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=28&duration=2600&pause=900&color=FF78C4&center=true&vCenter=true&width=1000&lines=THE+ALGORITHMIC+ATELIER;LOGIC+%2B+CREATIVITY+%3D+MEANINGFUL+CODE;DEBUGGING+IDEAS+INTO+EXPERIENCES;FROM+PROBLEM+SPACE+TO+PRODUCT+SPACE" alt="Typing SVG" />
 
 <br>
 
-<h1>𝑯𝒊, 𝑰’𝒎 𝑷𝑽𝑽𝒂𝒊𝒅𝒆𝒉𝒊 👋</h1>
-
-<h3>Full-Stack Developer · CSE Student · Problem Solver</h3>
-
-<br>
-
-<img src="https://img.shields.io/badge/∑%20Ideas%20×%20Logic%20→%20Impact-FF88DD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/while%20(learning)%20%7B%20build()%3B%20%7D-7EE8FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Code%20∈%20Creativity-7EF0C5?style=for-the-badge" />
-
-<br><br>
-
-<a href="https://vaidehi92562.github.io/vaidehi-github-profile/">
-  <img src="https://img.shields.io/badge/Open%20Interactive%20Portfolio-8B7CFF?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Mode-Designing%20Systems-7EE8FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-DSA%20%2B%20Full%20Stack-FF88DD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/State-Always%20Compiling-9D7CFF?style=for-the-badge" />
 
 </div>
 
@@ -30,53 +18,50 @@
 
 <div align="center">
 
-## ✦ 𝑻𝒉𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑬𝒒𝒖𝒂𝒕𝒊𝒐𝒏 ✦
+# ⌘ The Algorithmic Atelier
+
+### A small corner of the internet where logic gets dressed up as software.
 
 </div>
 
 ```txt
-Curiosity + Consistency + Code
-──────────────────────────────  =  Growth
-       Bugs + Debugging
-```
-
-```txt
-Input    : Ideas, Problems, Requirements
-Process  : Think → Design → Code → Test → Improve
-Output   : Clean, useful, scalable digital products
+┌──────────────────────────────────────────────────────────────┐
+│  input      : curiosity, chaos, coffee, constraints           │
+│  transform  : think → model → code → test → refine            │
+│  output     : interfaces, systems, dashboards, products       │
+│  invariant  : keep learning                                  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⟡ About My Build Space
+## ⟡ Current Operating System
 
 <table>
 <tr>
 <td width="50%">
 
-### 𝟏. 𝑴𝒊𝒏𝒅𝒔𝒆𝒕
+### 🧠 Kernel
 
-I like building projects that feel complete — not just working, but polished, structured, and presentation-ready.
-
-- Clean interfaces  
-- Practical backend logic  
-- Organized project architecture  
-- Product-like user experience  
-- Debugging with patience and logic  
+```txt
+role        = CSE Student
+mode        = Full-Stack Builder
+mindset     = logic × creativity
+debug_style = patient but dramatic
+```
 
 </td>
 <td width="50%">
 
-### 𝟐. 𝑪𝒖𝒓𝒓𝒆𝒏𝒕 𝑭𝒐𝒄𝒖𝒔
+### ⚙️ Active Processes
 
-I am currently sharpening my foundation in:
-
-- Data Structures & Algorithms  
-- Full-Stack Development  
-- System Design Fundamentals  
-- Docker, Kubernetes, Jenkins  
-- CI/CD and DevOps workflows  
-- Strong portfolio projects  
+```txt
+process_01  DSA patterns
+process_02  full-stack projects
+process_03  DevOps pipelines
+process_04  system design basics
+process_05  portfolio experiments
+```
 
 </td>
 </tr>
@@ -84,73 +69,74 @@ I am currently sharpening my foundation in:
 
 ---
 
-<div align="center">
+## ⟡ Build Philosophy
 
-## 𝑳𝒐𝒈𝒊𝒄 𝑳𝒂𝒃 ⚙️
-
-</div>
-
-```js
-const developer = {
-  mindset: "logic + creativity",
-  stack: ["React", "Node.js", "Java", "Python", "MongoDB", "Docker"],
-  currentlyLearning: ["DSA", "System Design", "DevOps", "Kubernetes"],
-  goal: "build meaningful, scalable and beautiful software"
-};
-
-while (developer.isLearning) {
-  build();
-  debug();
-  improve();
-  ship();
-}
+```txt
+A project should not only run.
+It should explain itself.
+It should look intentional.
+It should feel like someone cared.
 ```
+
+> I like turning basic assignment ideas into product-like experiences — clean interfaces, structured logic, useful workflows, and enough visual polish to make someone pause.
 
 ---
 
-## ⟡ Tech Constellation
+## ⟡ The Equation Board
+
+<div align="center">
+
+### `ideas + algorithms + design → useful software`
+
+### `clean UI + reliable backend = better user experience`
+
+### `while (confused) { learn(); build(); debug(); }`
+
+### `∀ problem, ∃ pattern`
+
+</div>
+
+---
+
+## ⟡ My Skill Constellation
 
 <div align="center">
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Java-FF8C42?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-7EA8FF?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-8B7CFF?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-7EF0C5?style=for-the-badge&logo=mysql&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-F77F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-5390D9?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-6930C3?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-80FFDB?style=for-the-badge&logo=mysql&logoColor=black" />
 
 <br><br>
 
-### Frontend + Backend
+### Web Engineering
 
-<img src="https://img.shields.io/badge/React-7EE8FF?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-7EF0C5?style=for-the-badge&logo=nodedotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Express.js-2B2D42?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-8BE28B?style=for-the-badge&logo=springboot&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-7EF0C5?style=for-the-badge&logo=mongodb&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-7EA8FF?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-72EFDD?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-95D5B2?style=for-the-badge&logo=nodedotjs&logoColor=black" />
+<img src="https://img.shields.io/badge/Express.js-252422?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-B7E4C7?style=for-the-badge&logo=springboot&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-52B788?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4895EF?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br><br>
 
-### DevOps + Tools
+### Tools & Deployment
 
-<img src="https://img.shields.io/badge/Git-FF7A59?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-7EA8FF?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-8B7CFF?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-FFB86C?style=for-the-badge&logo=jenkins&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF8C42?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E76F51?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-48CAE4?style=for-the-badge&logo=docker&logoColor=black" />
+<img src="https://img.shields.io/badge/Kubernetes-4361EE?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-FFB703?style=for-the-badge&logo=jenkins&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-F77F00?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑩𝒖𝒊𝒍𝒅𝒔 ✨
-
-</div>
+## ⟡ Project Observatory
 
 <table>
 <tr>
@@ -158,10 +144,12 @@ while (developer.isLearning) {
 
 ### 📈 TradeWise Nexus
 
-A full-stack paper trading simulator with live-feeling stock movement, wallet tracking, watchlist, transactions, and portfolio insights.
+A paper-trading simulator with live-feeling prices, wallet operations, watchlist, transactions, and portfolio tracking.
 
 ```txt
-React · Node.js · MongoDB · Docker
+type     : Full-Stack
+stack    : React · Node.js · MongoDB
+focus    : simulation + dashboards
 ```
 
 </td>
@@ -169,10 +157,12 @@ React · Node.js · MongoDB · Docker
 
 ### 🌾 CropSight
 
-An explainable ML-based risk engine for predicting post-harvest spoilage risk and generating interpretable insights.
+An explainable ML-based risk engine for predicting post-harvest spoilage risk and producing interpretable insights.
 
 ```txt
-Python · ML · SHAP · React
+type     : AI/ML
+stack    : Python · SHAP · ML
+focus    : prediction + explainability
 ```
 
 </td>
@@ -180,10 +170,12 @@ Python · ML · SHAP · React
 
 ### 🎓 LearnSphere
 
-An e-learning platform concept with courses, quizzes, dashboards, progress tracking, and DevOps deployment workflows.
+A learning platform idea with quizzes, progress tracking, dashboards, CI/CD, Docker, Kubernetes, and DevSecOps flow.
 
 ```txt
-React · Node.js · MySQL · Jenkins
+type     : EdTech + DevOps
+stack    : React · Node.js · Jenkins
+focus    : learning + deployment
 ```
 
 </td>
@@ -192,25 +184,43 @@ React · Node.js · MySQL · Jenkins
 
 ---
 
+## ⟡ Thought Pipeline
+
+```mermaid
+flowchart LR
+    A[Messy Idea] --> B[Break into Requirements]
+    B --> C[Design UI Flow]
+    C --> D[Build Frontend]
+    B --> E[Plan Backend Logic]
+    E --> F[Create APIs]
+    D --> G[Test UX]
+    F --> G
+    G --> H[Debug]
+    H --> I[Deploy]
+    I --> J[Polish + Present]
+```
+
+---
+
+## ⟡ Portfolio Portal
+
 <div align="center">
 
-## 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 𝑷𝒓𝒆𝒗𝒊𝒆𝒘
-
 <a href="https://vaidehi92562.github.io/vaidehi-github-profile/">
-  <img src="./IMG2.png" width="82%" alt="Portfolio Preview" />
+  <img src="./IMG2.png" width="82%" alt="Interactive Portfolio Preview" />
 </a>
 
 <br><br>
 
 <a href="https://vaidehi92562.github.io/vaidehi-github-profile/">
-  <img src="https://img.shields.io/badge/View%20Full%20Interactive%20Portfolio-FF7AD9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENTER%20THE%20LIVE%20PORTFOLIO-FF78C4?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## ⟡ GitHub Signal
+## ⟡ GitHub Signals
 
 <div align="center">
 
@@ -226,28 +236,22 @@ React · Node.js · MySQL · Jenkins
 
 ---
 
-<div align="center">
-
-## 𝑴𝒚 𝑪𝒐𝒅𝒊𝒏𝒈 𝑴𝒂𝒏𝒊𝒇𝒆𝒔𝒕𝒐
-
-</div>
+## ⟡ Tiny Bug Museum
 
 ```txt
-I do not just write code.
-I design logic.
-I structure ideas.
-I debug assumptions.
-I build experiences.
+bug_001  Forgot a semicolon. Blamed the universe.
+bug_002  Fixed one issue. Created three side quests.
+bug_003  Console.log became emotional support.
+bug_004  Works on my machine: the ancient spell.
+bug_005  Debugged for 2 hours. It was a typo.
 ```
+
+---
 
 <div align="center">
 
-### `∀ problem ∃ solution, if patience && logic`
+### `commit by commit, the system becomes clearer`
 
-### `Clean Code + Clear Thinking = Better Engineering`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EE8FF,50:FF88DD,100:8B7CFF&height=130&section=footer&text=Keep%20Building%20•%20Keep%20Learning%20•%20Keep%20Growing&fontSize=24&fontColor=ffffff" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2500&pause=1000&color=7EE8FF&center=true&vCenter=true&width=900&lines=Think+deeply.;Build+carefully.;Debug+patiently.;Ship+beautifully." alt="Footer Typing SVG" />
 
 </div>
